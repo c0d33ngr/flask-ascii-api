@@ -1,0 +1,25 @@
+# Ignore env folder
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore any generated files or build folders
+*.pyo
+*.egg-info
+dist/
+build/
+
+# Ignore any IDE-specific files
+.vscode/
+.idea/
+
+# Ignore any local configuration files
+*.env
+*.log
+
+# Ignore any files with secrets or sensitive information
+*.key
+*.pem
+
